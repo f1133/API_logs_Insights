@@ -1,0 +1,8 @@
+| statusMessage   |   statusCode |   count |
+|:----------------|-------------:|--------:|
+| OK              |          200 |   20802 |
+| Server Error    |          500 |     415 |
+| Not Found       |          404 |     348 |
+| Unknown         |          422 |      77 |
+| Unknown         |          206 |      68 |
+| Bad Request     |          400 |       4 |
